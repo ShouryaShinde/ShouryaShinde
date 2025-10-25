@@ -12,23 +12,25 @@
 </p>
 
 ---
-<div align="center">
-
-  <div style="display: inline-block; width: 40%; vertical-align: middle; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
+<!-- Flex layout: responsive, centers content, wraps on small screens -->
+<div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:24px;max-width:100%;">
+  <!-- Image column -->
+  <div style="flex: 0 1 360px; text-align:center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="loop" style="max-width:100%;height:auto;">
   </div>
 
-  <div style="display: inline-block; width: 55%; vertical-align: middle; text-align: left;">
+  <!-- Text column -->
+  <div style="flex: 1 1 420px; min-width:260px; text-align:left;">
+## 🚀 About Me
 
-  <h2>🚀 About Me</h2>
+```yaml
+name: Shourya Shinde
+located_in: Earth
+current_focus: Building amazing projects
+interests: ["Coding", "Open Source", "Innovation"]
+learning: ["Always evolving", "Always improving"]
+quote: "The throne belongs to the one who can carry its weight."
 
-  ```yaml
-  name: Shourya Shinde
-  located_in: Earth
-  current_focus: Building amazing projects
-  interests: ["Coding", "Open Source", "Innovation"]
-  learning: ["Always evolving", "Always improving"]
-  quote: "The throne belongs to the one who can carry its weight."
 ```
 </div>
 </div>
