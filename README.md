@@ -12,24 +12,26 @@
 </p>
 
 ---
-<table width="100%">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
-    </td>
-    <td width="60%" valign="middle">
+<div align="center">
 
-## 🚀 About Me
+  <div style="display: inline-block; width: 40%; vertical-align: middle; text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
+  </div>
 
-```yaml
-name: Shourya Shinde
-located_in: Earth
-current_focus: Building amazing projects
-interests: ["Coding", "Open Source", "Innovation"]
-learning: ["Always evolving", "Always improving"]
-quote: "The throne belongs to the one who can carry its weight."
+  <div style="display: inline-block; width: 55%; vertical-align: middle; text-align: left;">
+
+  <h2>🚀 About Me</h2>
+
+  ```yaml
+  name: Shourya Shinde
+  located_in: Earth
+  current_focus: Building amazing projects
+  interests: ["Coding", "Open Source", "Innovation"]
+  learning: ["Always evolving", "Always improving"]
+  quote: "The throne belongs to the one who can carry its weight."
 ```
-</td></tr></table>
+</div>
+</div>
 
 ---
 
