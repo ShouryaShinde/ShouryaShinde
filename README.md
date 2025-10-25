@@ -14,10 +14,7 @@
 ---
 ## 🚀 About Me
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <!-- Text Section -->
-    <td align="left" valign="top" width="60%">
+![About Me](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
       
 ```yaml
 name: Shourya Shinde
@@ -31,9 +28,7 @@ goal: "To become a versatile full-stack developer contributing to impactful real
 quote: "Not Talented , just better at not giving up !"
 
 ```
-</td> <!-- GIF Section -->
-<td align="center" valign="middle" width="40%">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="loop" style="max-width:100%; height:auto;"> </td> </tr> </table>
+
 
 ---
 
