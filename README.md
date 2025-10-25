@@ -15,7 +15,10 @@
 
 ## 🚀 About Me
 
-<img src= "https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0MTk4MzEsIm5iZiI6MTc2MTQxOTUzMSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI1VDE5MTIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjYjA1NzUxMDg3OWIzZmMzNzAxZjQ1YjJkM2I5ZGM1ZDAyNmUzYmYwOTlmMGFhMjJiMTcxOGE0OGM0YTBmNDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TV5CuCNjJtR6eFuN4sQcanPJ_to_Vng0RPqQUAOkLRA">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShouryaShinde/ShouryaShinde/main/assets/Perfect-Loop.gif" width="800">
+</p>
+
 
 ```yaml
 name: Shourya Shinde
