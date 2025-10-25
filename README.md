@@ -12,12 +12,12 @@
 </p>
 
 ---
-<table style="width:100%;" >
+<table width="100%">
   <tr>
-    <td>
+    <td width="40%" align="center" valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
     </td>
-    <td>
+    <td width="60%" valign="middle">
 
 ## 🚀 About Me
 
@@ -27,7 +27,7 @@ located_in: Earth
 current_focus: Building amazing projects
 interests: ["Coding", "Open Source", "Innovation"]
 learning: ["Always evolving", "Always improving"]
-fun_fact: "One Life , Make It Legendary"
+quote: "The throne belongs to the one who can carry its weight."
 ```
 </td></tr></table>
 
