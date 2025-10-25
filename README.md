@@ -29,9 +29,9 @@ quote: "Not talented . Just good at not giving up !"
 
 ---
 
-## 💭 Favorite Ronaldo Quotes
+## 💭 Favorite Quotes
 
-<div align="left" style="width:60% ;">
+<div align="left" >
   
 > *"Your love makes me strong, your hate makes me unstoppable."*
 > 
@@ -49,60 +49,89 @@ quote: "Not talented . Just good at not giving up !"
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<table align="center" width="100%" cellpadding="8" cellspacing="0">
+  <tr>
+    <td align="left" valign="middle" width="25%"><strong>💻 Frontend</strong></td>
+    <td align="left" valign="middle" width="75%">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/EJS-8B0000?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+    </td>
+  </tr>
 
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-8B0000?style=for-the-badge&logo=ejs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  <tr>
+    <td align="left" valign="middle"><strong>⚙️ Backend & APIs</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+      <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+    </td>
+  </tr>
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <tr>
+    <td align="left" valign="middle"><strong>🚀 Programming Languages</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    </td>
+  </tr>
 
-### 🚀 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  <tr>
+    <td align="left" valign="middle"><strong>🌐 Web3 & Blockchain</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js">
+      <img src="https://img.shields.io/badge/DApp-121D33?style=for-the-badge&logo=ethereum&logoColor=white" alt="DApp">
+    </td>
+  </tr>
 
-### 🌐 Web3 & Blockchain
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![DApp](https://img.shields.io/badge/DApp-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-</div>
+  <tr>
+    <td align="left" valign="middle"><strong>🧰 Tools & Platforms</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+    </td>
+  </tr>
+</table>
 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics  
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShouryaShinde&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaShinde&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <!-- 🔹 Row 1 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShouryaShinde&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaShinde&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+  </div>
+
+  <!-- 🔹 Row 2 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 10px; margin-top: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaShinde&layout=compact&theme=react-dark&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShouryaShinde&theme=react-dark" alt="GitHub Profile Summary" />
+  </div>
+
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaShinde&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+
+
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShouryaShinde&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShouryaShinde&theme=react-dark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
