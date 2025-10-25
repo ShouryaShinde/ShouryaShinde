@@ -31,7 +31,7 @@ fun_fact: "There are 10 types of people: those who understand binary and those w
 
 - 👋 Hey there! I'm Shaurya — a BE IT student from Dr. D. Y. Patil Institute of Technology (SPPU).  
 - 🚀 Currently learning full-stack web development through Angela Yu’s Udemy course.  
-- 💡 I love building interactive web apps, exploring IoT projects with ESP8266, and constantly improving my skills.  
+- 💡 I love building interactive web apps, participating in Hackathons , and constantly improving my skills.  
 - 🌱 I'm also passionate about Open Source contribution, Data Structures & Algorithms, and Cloud Computing.  
 - 🎯 My goal: Become a versatile full-stack developer ready for real-world projects and impactful collaborations.
 
@@ -51,7 +51,7 @@ fun_fact: "There are 10 types of people: those who understand binary and those w
 > 
 > *"There is no harm in dreaming of becoming the world's best player. It is all about trying to be the best. I will keep working hard to achieve it."*
 
-<img src="https://media.giphy.com/media/l0HU5bbgdW6qzJsmQ/giphy.gif" width="500">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/BscoKA8muQd1f8urnE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cristiano-ronaldo-2008-BscoKA8muQd1f8urnE">via GIPHY</a></p>
 
 </div>
 
