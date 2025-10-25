@@ -12,13 +12,14 @@
 </p>
 
 ---
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
+    </td>
+    <td>
 
 ## 🚀 About Me
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShouryaShinde/ShouryaShinde/main/assets/Perfect-Loop.gif" width="800">
-</p>
-
 
 ```yaml
 name: Shourya Shinde
@@ -28,12 +29,7 @@ interests: ["Coding", "Open Source", "Innovation"]
 learning: ["Always evolving", "Always improving"]
 fun_fact: "There are 10 types of people: those who understand binary and those who don't"
 ```
-
-- 👋 Hey there! I'm Shaurya — a BE IT student from Dr. D. Y. Patil Institute of Technology (SPPU).  
-- 🚀 Currently learning full-stack web development through Angela Yu’s Udemy course.  
-- 💡 I love building interactive web apps, participating in Hackathons , and constantly improving my skills.  
-- 🌱 I'm also passionate about Open Source contribution, Data Structures & Algorithms, and Cloud Computing.  
-- 🎯 My goal: Become a versatile full-stack developer ready for real-world projects and impactful collaborations.
+</td></tr></table>
 
 ---
 
@@ -51,7 +47,7 @@ fun_fact: "There are 10 types of people: those who understand binary and those w
 > 
 > *"There is no harm in dreaming of becoming the world's best player. It is all about trying to be the best. I will keep working hard to achieve it."*
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/BscoKA8muQd1f8urnE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cristiano-ronaldo-2008-BscoKA8muQd1f8urnE">via GIPHY</a></p>
+
 
 </div>
 
