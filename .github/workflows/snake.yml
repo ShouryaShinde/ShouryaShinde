@@ -2,11 +2,11 @@ name: Generate Dark Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight
+    - cron: "0 0 * * *"  # Runs daily
   workflow_dispatch:
 
 permissions:
-  contents: write  # allows pushing to output branch
+  contents: write
 
 jobs:
   generate:
@@ -21,7 +21,8 @@ jobs:
         with:
           github_user_name: ShouryaShinde  # replace with your username
           outputs: dist/snake-dark.svg
-          snake_color: "#00FF00"  # optional: neon green snake
+          color_snake: "#00FF00"           # Neon green snake 🐍
+          color_dots: "#1E1E1E,#2E2E2E,#3E3E3E,#4E4E4E,#5E5E5E"  # Darker grid shades
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
