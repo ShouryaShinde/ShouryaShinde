@@ -31,7 +31,7 @@ quote: "Not talented . Just good at not giving up !"
 
 ## 💭 Favorite Ronaldo Quotes
 
-<div align="center">
+<div align="left" style="width:60% ;">
   
 > *"Your love makes me strong, your hate makes me unstoppable."*
 > 
@@ -42,8 +42,6 @@ quote: "Not talented . Just good at not giving up !"
 > *"I'm living a dream I never want to wake up from."*
 > 
 > *"There is no harm in dreaming of becoming the world's best player. It is all about trying to be the best. I will keep working hard to achieve it."*
-
-
 
 </div>
 
