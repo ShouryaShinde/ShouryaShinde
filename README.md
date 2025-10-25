@@ -12,17 +12,13 @@
 </p>
 
 ---
-<!-- Flex layout: responsive, centers content, wraps on small screens -->
-<div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:24px;max-width:100%;">
-  <!-- Image column -->
-  <div style="flex: 0 1 360px; text-align:center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="loop" style="max-width:100%;height:auto;">
-  </div>
-
-  <!-- Text column -->
-  <div style="flex: 1 1 420px; min-width:260px; text-align:left;">
 ## 🚀 About Me
 
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <!-- Text Section -->
+    <td align="left" valign="top" width="60%">
+      
 ```yaml
 name: Shourya Shinde
 located_in: Earth
@@ -32,8 +28,9 @@ learning: ["Always evolving", "Always improving"]
 quote: "The throne belongs to the one who can carry its weight."
 
 ```
-</div>
-</div>
+</td> <!-- GIF Section -->
+<td align="center" valign="middle" width="40%">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="loop" style="max-width:100%; height:auto;"> </td> </tr> </table>
 
 ---
 
