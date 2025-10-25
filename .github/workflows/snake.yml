@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Dark Snake Animation
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # <--- THIS IS IMPORTANT
+  contents: write  # allows pushing to output branch
 
 jobs:
   generate:
@@ -16,11 +16,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate dark snake
         uses: Platane/snk@v3
         with:
           github_user_name: ShouryaShinde  # replace with your username
-          outputs: dist/snake.svg
+          outputs: dist/snake-dark.svg
+          snake_color: "#00FF00"  # optional: neon green snake
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
