@@ -27,7 +27,7 @@ located_in: Earth
 current_focus: Building amazing projects
 interests: ["Coding", "Open Source", "Innovation"]
 learning: ["Always evolving", "Always improving"]
-fun_fact: "There are 10 types of people: those who understand binary and those who don't"
+fun_fact: "One Life , Make It Legendary"
 ```
 </td></tr></table>
 
