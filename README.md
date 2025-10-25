@@ -19,13 +19,10 @@
 ```yaml
 name: Shourya Shinde
 located_in: Earth 🌍
-education: "B.E. in Information Technology, Dr. D. Y. Patil Institute of Technology (SPPU)"
-current_focus: "Building amazing full-stack web projects"
-main_stack: ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "EJS", "Bootstrap", "PostgreSQL", "GitHub", "Web3", "DApp"]
-learning: ["Full-Stack Development (Angela Yu, Udemy)", "Striver's A2Z DSA Sheet", "REST APIs", "Open Source"]
-personality: ["Curious", "Focused", "Problem-Solver", "Team Player", "Continuous Learner"]
-goal: "To become a versatile full-stack developer contributing to impactful real-world projects"
-quote: "Not Talented , just better at not giving up !"
+current_focus: Building amazing projects
+interests: ["Coding", "Open Source", "Innovation"]
+learning: ["Always evolving", "Always improving"]
+quote: "Not talented . Just good at not giving up !"
 
 ```
 
