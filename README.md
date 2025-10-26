@@ -106,19 +106,14 @@ quote: "Not talented . Just good at not giving up !"
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-  <!-- Row 1 -->
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ShouryaShinde&show_icons=true&theme=react-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaShinde&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryashinde&theme=blue_navy" alt="GitHub Streak" width="450"/> | <img src="https://github-readme-stats.vercel.app/api?username=shouryashinde&show_icons=true&theme=blue_navy" alt="GitHub Stats" width="450"/> |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=compact" alt="Top Languages" width="450"/> | <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Star-passing.gif?raw=true" alt="WakaTime Stats" width="450"/> |
 
-  <br><br> <!-- spacing between rows -->
+</p>
 
-  <!-- Row 2 -->
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaShinde&layout=compact&theme=react-dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShouryaShinde&theme=react-dark" alt="GitHub Profile Summary" />
-
-</div>
 
 ---
 
