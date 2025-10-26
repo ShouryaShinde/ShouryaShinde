@@ -108,9 +108,9 @@ quote: "Not talented . Just good at not giving up !"
 
 <p align="center">
 
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryashinde&theme=blue_navy" alt="GitHub Streak" width="450"/> | <img src="https://github-readme-stats.vercel.app/api?username=shouryashinde&show_icons=true&theme=blue_navy" alt="GitHub Stats" width="450"/> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryashinde&theme=blue_navy" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api?username=shouryashinde&show_icons=true&theme=blue_navy" alt="GitHub Stats" /> |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=compact" alt="Top Languages" width="450"/> | <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Star-passing.gif?raw=true" alt="WakaTime Stats" width="450"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=compact" alt="Top Languages" /> | <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Star-passing.gif?raw=true" width="450"/> |
 
 </p>
 
@@ -148,16 +148,31 @@ quote: "Not talented . Just good at not giving up !"
 ---
 
 ## 🌐 Connect With Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/shourya-shinde/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/shourya_shinde_96k/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="shindeshauryaanil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<div align="center" width="90%">
+
+  <!-- Left GIF at top-left -->
+  <div align="left">
+    <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Connect-1.gif?raw=true" width="100"/>
+  </div>
+
+  <!-- Badges centered -->
+  <div align="center" style="margin: 10px 0;">
+    <a href="https://www.linkedin.com/in/shourya-shinde/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/shourya_shinde_96k/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:shindeshauryaanil@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+
+  <!-- Right GIF at bottom-right -->
+  <div align="right">
+    <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Connect-2.gif?raw=true" width="100"/>
+  </div>
+
 </div>
 
 
