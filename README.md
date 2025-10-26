@@ -118,7 +118,7 @@ quote: "Not talented . Just good at not giving up !"
 ---
 
 ## 🏆 GitHub Trophies
-| ![GIF](https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Vamos-Cristiano-Ronaldo.gif?raw=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=ShouryaShinde&theme=react-dark&no-frame=true&no-bg=true&margin-w=10&column=7) |
+|  <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Vamos-Cristiano-Ronaldo.gif?raw=true" width="300"/> | ![Trophies](https://github-profile-trophy.vercel.app/?username=ShouryaShinde&theme=react-dark&no-frame=true&no-bg=true&margin-w=10&column=7) |
 |---|---|
 
 ---
