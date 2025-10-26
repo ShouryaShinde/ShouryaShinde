@@ -108,9 +108,9 @@ quote: "Not talented . Just good at not giving up !"
 
 <p align="center">
 
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryashinde&theme=blue_navy" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api?username=shouryashinde&show_icons=true&theme=blue_navy" alt="GitHub Stats" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryashinde&theme=blue_navy" alt="GitHub Streak" width="300"/> | <img src="https://github-readme-stats.vercel.app/api?username=shouryashinde&show_icons=true&theme=blue_navy" alt="GitHub Stats" width="300"/> |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=compact" alt="Top Languages" /> | <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Star-passing.gif?raw=true" width="450"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=compact" alt="Top Languages" width="300"/> | <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Star-passing.gif?raw=true" width="300"/> |
 
 </p>
 
