@@ -29,23 +29,6 @@ quote: "Not talented . Just good at not giving up !"
 
 ---
 
-## 💭 Favorite Quotes
-
-<div align="left" >
-  
-> *"Your love makes me strong, your hate makes me unstoppable."*
-> 
-> *"Dreams are not what you see in your sleep, dreams are things which do not let you sleep."*
-> 
-> *"Talent without working hard is nothing."*
-> 
-> *"I'm living a dream I never want to wake up from."*
-> 
-> *"There is no harm in dreaming of becoming the world's best player. It is all about trying to be the best. I will keep working hard to achieve it."*
-
-</div>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -108,7 +91,7 @@ quote: "Not talented . Just good at not giving up !"
 <div width="100%">
 <p align="center">
 
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryashinde&theme=blue_navy" alt="GitHub Streak" width="300"/> | <img src="https://github-readme-stats.vercel.app/api?username=shouryashinde&show_icons=true&theme=blue_navy" alt="GitHub Stats" width="300"/> |
+| [![GitHub Streak](https://github-readme-streak-stats-xi-olive.vercel.app?user=ShouryaShinde&theme=github-dark-blue&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300&card_height=200)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=shouryashinde&show_icons=true&theme=blue_navy" alt="GitHub Stats" width="300"/> |
 |---|---|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=compact" alt="Top Languages" width="300"/> | <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Star-passing.gif?raw=true" width="300"/> |
 
