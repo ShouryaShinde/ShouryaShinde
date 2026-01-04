@@ -4,10 +4,6 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy.gif" width="700">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShouryaShinde&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
