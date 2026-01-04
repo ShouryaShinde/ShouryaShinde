@@ -90,11 +90,19 @@ quote: "Not talented . Just good at not giving up !"
 ## 📊 GitHub Statistics
 <div width="100%">
 <p align="center">
-
-| [![GitHub Streak](https://github-readme-streak-stats-xi-olive.vercel.app?user=ShouryaShinde&theme=blue_navy&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300&card_height=170)](https://git.io/streak-stats) | <img src="https://github-readme-stats-psi-eosin-89.vercel.app/api?username=shouryashinde&show_icons=true&theme=blue_navy" alt="GitHub Stats" width="350"/> |
-|---|---|
-| <img src="https://github-readme-stats-psi-eosin-89.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=compact" alt="Top Languages" width="300"/> | <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Star-passing.gif?raw=true" width="350"/> |
-
+<table width="100%" align="centre">
+  <tr>
+    <td width="50%"><img src="https://github-readme-streak-stats-xi-olive.vercel.app?user=ShouryaShinde&theme=blue_navy&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt= "Github Streak" /></td>
+    <td width="50%"> <img src="https://github-readme-stats-psi-eosin-89.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=compact" alt="Top Languages" />
+    <img src= "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="170px"/>
+    </td>
+   
+  </tr>
+  <tr height="30%">
+    <td ><img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Star-passing.gif?raw=true"/></td>
+    <td><img src="https://github-readme-stats-psi-eosin-89.vercel.app/api?username=shouryashinde&show_icons=true&theme=blue_navy" alt="GitHub Stats"/></td>
+  </tr>
+</table>
 </p>
 </div>
 
@@ -102,8 +110,13 @@ quote: "Not talented . Just good at not giving up !"
 
 ## 🏆 GitHub Trophies
 
-|  <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Vamos-Cristiano-Ronaldo.gif?raw=true" width="300"/> |<img src="https://github-profile-trophy.vercel.app/?username=ShouryaShinde&theme=juicyfresh&no-frame=true&row=2&column=3" />|
-|---|---|
+<table width="100%">
+ <tr width = "100%">
+   <td width="11%"> <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Vamos-Cristiano-Ronaldo.gif?raw=true" /> </td>
+   <td > <img src="https://github-profile-trophy.vercel.app/?username=ShouryaShinde&theme=juicyfresh&no-frame=true&row=1&column=8"/> </td>
+ </tr>
+</table>
+
 ---
 
 ## 📈 Contribution Graph
