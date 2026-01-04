@@ -36,50 +36,28 @@ quote: "Not talented . Just good at not giving up !"
   <tr>
     <td align="left" valign="middle" width="25%"><strong>💻 Frontend</strong></td>
     <td align="left" valign="middle" width="75%">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-      <img src="https://img.shields.io/badge/EJS-8B0000?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS">
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,react" alt="Frontend Skills Icon"/>
     </td>
   </tr>
 
   <tr>
     <td align="left" valign="middle"><strong>⚙️ Backend & APIs</strong></td>
     <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-      <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" alt="Backend and API"/>
     </td>
   </tr>
 
   <tr>
     <td align="left" valign="middle"><strong>🚀 Programming Languages</strong></td>
     <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="middle"><strong>🌐 Web3 & Blockchain</strong></td>
-    <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js">
-      <img src="https://img.shields.io/badge/DApp-121D33?style=for-the-badge&logo=ethereum&logoColor=white" alt="DApp">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Programming Languages"/>
     </td>
   </tr>
 
   <tr>
     <td align="left" valign="middle"><strong>🧰 Tools & Platforms</strong></td>
     <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools & Platforms"/>
     </td>
   </tr>
 </table>
