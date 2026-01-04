@@ -72,7 +72,6 @@ quote: "Not talented . Just good at not giving up !"
   <tr>
     <td width="50%"><img src="https://github-readme-streak-stats-xi-olive.vercel.app?user=ShouryaShinde&theme=blue_navy&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt= "Github Streak" /></td>
     <td width="50%"> <img src="https://github-readme-stats-psi-eosin-89.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=compact" alt="Top Languages" />
-    <img src= "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="170px"/>
     </td>
    
   </tr>
