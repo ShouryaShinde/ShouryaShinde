@@ -131,13 +131,13 @@ quote: "Not talented . Just good at not giving up !"
   <!-- Badges centered -->
   <div align="center" style="margin: 10px 0;">
     <a href="https://www.linkedin.com/in/shourya-shinde/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
     </a>
     <a href="https://instagram.com/shourya_shinde_96k/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
     </a>
     <a href="mailto:shindeshauryaanil@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
     </a>
   </div>
 
