@@ -86,7 +86,7 @@ quote: "Not talented . Just good at not giving up !"
 <table width="100%">
  <tr width = "100%">
    <td width="15%"> <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Vamos-Cristiano-Ronaldo.gif?raw=true" /> </td>
-   <td > <img src="https://github-profile-trophy.vercel.app/?username=ShouryaShinde&theme=juicyfresh&no-frame=true&row=1&column=8"/> </td>
+   <td > <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ShouryaShinde&theme=juicyfresh&no-frame=true&row=1&column=8"/> </td>
  </tr>
 </table>
 
