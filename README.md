@@ -32,14 +32,21 @@ quote: "Not talented . Just good at not giving up !"
   <tr>
     <td align="left" valign="middle" width="25%"><strong>💻 Frontend</strong></td>
     <td align="left" valign="middle" width="75%">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,react" alt="Frontend Skills Icon"/>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,tailwind,react" alt="Frontend Skills Icon"/>
     </td>
   </tr>
 
   <tr>
     <td align="left" valign="middle"><strong>⚙️ Backend & APIs</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" alt="Backend and API"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend and API"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="middle" width="25%"><strong>📊 DataBase Management System</strong></td>
+    <td align="left" valign="middle" width="75%">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Database Skills Icon"/>
     </td>
   </tr>
 
@@ -66,14 +73,14 @@ quote: "Not talented . Just good at not giving up !"
 <p align="center">
 <table width="100%" align="centre">
   <tr>
-    <td width="50%"><img src="https://github-readme-streak-stats-xi-olive.vercel.app?user=ShouryaShinde&theme=blue_navy&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt= "Github Streak" /></td>
-    <td width="50%"> <img src="https://github-readme-stats-psi-eosin-89.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=compact" alt="Top Languages" />
+    <td width="50%"><img src="https://streak-stats.demolab.com?user=ShouryaShinde&theme=midnight-purple&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt= "Github Streak" /></td>
+    <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=donut" alt="Top Languages" />
     </td>
    
   </tr>
   <tr height="30%">
     <td ><img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Star-passing.gif?raw=true"/></td>
-    <td><img src="https://github-readme-stats-psi-eosin-89.vercel.app/api?username=shouryashinde&show_icons=true&theme=blue_navy" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shouryashinde&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/></td>
   </tr>
 </table>
 </p>
@@ -86,7 +93,7 @@ quote: "Not talented . Just good at not giving up !"
 <table width="100%">
  <tr width = "100%">
    <td width="15%"> <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Vamos-Cristiano-Ronaldo.gif?raw=true" /> </td>
-   <td > <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ShouryaShinde&theme=juicyfresh&no-frame=true&row=1&column=8"/> </td>
+   <td > <img src="https://github-profile-repo.vercel.app/?username=ShouryaShinde&theme=oldie&no-frame=true&row=1&column=8"/> </td>
  </tr>
 </table>
 
