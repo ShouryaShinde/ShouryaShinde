@@ -79,7 +79,7 @@ quote: "Not talented . Just good at not giving up !"
    
   </tr>
   <tr height="30%">
-    <td ><img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Star-passing.gif?raw=true"/></td>
+    <td ><img src="https://raw.githubusercontent.com/ShouryaShinde/ShouryaShinde/main/assets/Star-passing.gif"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=shouryashinde&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/></td>
   </tr>
 </table>
@@ -91,10 +91,14 @@ quote: "Not talented . Just good at not giving up !"
 ## 🏆 GitHub Trophies
 
 <table width="100%">
- <tr width = "100%">
-   <td width="15%"> <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Vamos-Cristiano-Ronaldo.gif?raw=true" /> </td>
-   <td > <img src="https://github-profile-repo.vercel.app/?username=ShouryaShinde&theme=oldie&no-frame=true&row=1&column=8"/> </td>
- </tr>
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/ShouryaShinde/ShouryaShinde/main/assets/Vamos-Cristiano-Ronaldo.gif" />
+    </td>
+    <td align="center" valign="middle" style="padding: 10px;">
+      <img src="https://github-profile-repo.vercel.app/?username=ShouryaShinde&theme=oldie&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -128,7 +132,7 @@ quote: "Not talented . Just good at not giving up !"
 
   <!-- Left GIF at top-left -->
   <div align="left">
-    <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Connect-1.gif?raw=true" width="100"/>
+    <img src="https://raw.githubusercontent.com/ShouryaShinde/ShouryaShinde/main/assets/Connect-1.gif" width="100"/>
   </div>
 
   <!-- Badges centered -->
@@ -146,7 +150,7 @@ quote: "Not talented . Just good at not giving up !"
 
   <!-- Right GIF at bottom-right -->
   <div align="right">
-    <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Connect-2.gif?raw=true" width="100"/>
+    <img src="https://raw.githubusercontent.com/ShouryaShinde/ShouryaShinde/main/assets/Connect-2.gif" width="100"/>
   </div>
 
 </div>
@@ -166,6 +170,6 @@ quote: "Not talented . Just good at not giving up !"
 <div align="center">
   <i>Happy Coding! 🚀</i>
   <br><br>
-  <img src="https://github.com/ShouryaShinde/ShouryaShinde/blob/main/assets/Perfect-Loop.gif" width="700">
+  <img src="https://raw.githubusercontent.com/ShouryaShinde/ShouryaShinde/main/assets/Perfect-Loop.gif" width="700">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
