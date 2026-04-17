@@ -164,12 +164,11 @@ quote: "Not talented . Just good at not giving up !"
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <h3> Show some ❤️ by starring some of my repositories! </h3>
 </div>
-  
-  
-
 <div align="center">
   <i>Happy Coding! 🚀</i>
   <br><br>
   <img src="https://raw.githubusercontent.com/ShouryaShinde/ShouryaShinde/main/assets/Perfect-Loop.gif" width="700">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
+<p>Credits : <a href="https://github.com/ShouryaShinde">Shourya Shinde</a></p>
