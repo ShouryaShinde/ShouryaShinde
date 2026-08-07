@@ -73,7 +73,7 @@ quote: "Not talented . Just good at not giving up !"
 <p align="center">
 <table width="100%" align="centre">
   <tr>
-    <td width="50%"><img src="https://streak-stats.demolab.com?user=ShouryaShinde&theme=midnight-purple&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt= "Github Streak" /></td>
+    <td width="50%"><img src="https://streak-stats.demolab.com?user=ShouryaShinde&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&mode=weekly" alt= "Github Streak" /></td>
     <td ><img src="https://raw.githubusercontent.com/ShouryaShinde/ShouryaShinde/main/assets/Star-passing.gif"/></td>
   </tr>
 </table>
