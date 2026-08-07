@@ -74,13 +74,7 @@ quote: "Not talented . Just good at not giving up !"
 <table width="100%" align="centre">
   <tr>
     <td width="50%"><img src="https://streak-stats.demolab.com?user=ShouryaShinde&theme=midnight-purple&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt= "Github Streak" /></td>
-    <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryashinde&show_icons=true&theme=blue_navy&layout=donut" alt="Top Languages" />
-    </td>
-   
-  </tr>
-  <tr height="30%">
     <td ><img src="https://raw.githubusercontent.com/ShouryaShinde/ShouryaShinde/main/assets/Star-passing.gif"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=shouryashinde&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/></td>
   </tr>
 </table>
 </p>
