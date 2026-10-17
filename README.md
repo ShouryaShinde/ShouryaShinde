@@ -97,14 +97,6 @@ quote: "Not talented . Just good at not giving up !"
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShouryaShinde&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
